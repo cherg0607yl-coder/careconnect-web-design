@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ngo-1",
+    "name": "X Hospice",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "languages": ["English", "Spanish"],
+    "cost_model": "Free",
+    "services": ["Bereavement counseling", "Caregiver training", "Home hospice navigation"],
+    "email": "hello@xhospice.org",
+    "phone": "123-456-7890",
+    "website_url": "https://example.org",
+    "description": "Free counseling and practical guidance for families navigating hospice."
+  },
+  {
+    "id": "ngo-2",
+    "name": "Y Hospice",
+    "city": "Durham",
+    "state": "NC",
+    "languages": ["English", "Chinese"],
+    "cost_model": "Free",
+    "services": ["Volunteer companionship", "Respite sitting", "Equipment lending"],
+    "email": "hello@yhospice.org",
+    "phone": "123-456-7890",
+    "website_url": "https://example.com",
+    "description": "Trained volunteers offering companionship and caregiver respite."
+  },
+  {
+    "id": "ngo-3",
+    "name": "Z Hospice",
+    "city": "Raleigh",
+    "state": "NC",
+    "languages": ["English"],
+    "cost_model": "Sliding scale",
+    "services": ["Spiritual care", "Home hospice", "Transportation"],
+    "email": "hello@zhospice.org",
+    "phone": "123-456-7890",
+    "website_url": "https://hope.org",
+    "description": "Holistic end-of-life support with transportation and spiritual care."
+  }
+]

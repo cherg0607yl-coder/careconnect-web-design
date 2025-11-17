@@ -1,0 +1,49 @@
+.container {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+.card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1rem;
+}
+.badge {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  background: #e0e7ff;
+  margin: 0.2rem;
+  font-size: 0.8rem;
+}
+.btn {
+  display: inline-block;
+  padding: 0.6rem 0.9rem;
+  border-radius: 10px;
+  border: 1px solid #d1d5db;
+  background: #fff;
+  cursor: pointer;
+}
+.input {
+  width: 100%;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+}
+.small {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+a:focus,
+button:focus,
+input:focus,
+select:focus {
+  outline: 3px solid #93c5fd;
+  outline-offset: 2px;
+}
