@@ -1,16 +1,10 @@
-# React + Vite
+# Yutian Gong's CSSG Final Product
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi there!
 
-Currently, two official plugins are available:
+This is CareConnect, a website dedicated to connecting families and volunteers with nearby hospice resources and organizations. Because many regions still face disparities in access to hospice care, I designed this webpage using the new skills I learned in CSSG to help create more equitable access and support people who want to make a difference.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I also included an additional feature — a Figma prototype. Here is the link:
+https://www.figma.com/proto/79weMLHreXjb8zmbpli1BA/CareConnect-Web?node-id=2-1074&t=n9CZLbU16rAEqWgx-1
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Since this is one of the busiest times of the semester, I haven't had the time to fully finish the prototype (NEVER-ENDING midterms 😭). But thank you so much for taking the time to check out my project, and thank you to the CSSG team for letting me learn so many new things!
